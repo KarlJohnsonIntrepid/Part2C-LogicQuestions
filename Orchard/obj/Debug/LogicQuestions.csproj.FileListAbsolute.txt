@@ -1,0 +1,6 @@
+C:\Users\Karl\Documents\visual studio 2017\Projects\LogicQuestions\Orchard\bin\Debug\Orchard.exe.config
+C:\Users\Karl\Documents\visual studio 2017\Projects\LogicQuestions\Orchard\bin\Debug\Orchard.exe
+C:\Users\Karl\Documents\visual studio 2017\Projects\LogicQuestions\Orchard\bin\Debug\Orchard.pdb
+C:\Users\Karl\Documents\visual studio 2017\Projects\LogicQuestions\Orchard\obj\Debug\LogicQuestions.csprojResolveAssemblyReference.cache
+C:\Users\Karl\Documents\visual studio 2017\Projects\LogicQuestions\Orchard\obj\Debug\Orchard.exe
+C:\Users\Karl\Documents\visual studio 2017\Projects\LogicQuestions\Orchard\obj\Debug\Orchard.pdb
